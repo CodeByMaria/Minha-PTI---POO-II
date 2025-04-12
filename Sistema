@@ -1,3 +1,0 @@
-A base do sistema é uma classe abstrata chamada Veiculo, que representa as características e comportamentos comuns a qualquer veículo disponível para locação. A partir dela, foram criadas duas classes derivadas: Carro e Moto, cada uma com sua taxa diária fixa (R$ 50 para carros e R$ 25 para motos).
-
-Cada classe implementa o método CalcularValorTotal, responsável por calcular o valor total da locação com base no número de diárias informadas.
